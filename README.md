@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho como suporte.
 - 🌱 Estudando Python/C#
 - 📫 Contate-me no email: danilo.ub89@gmail.com
--->
+##
 <div>
   <a href="https://github.com/dandanSE">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dandanSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
