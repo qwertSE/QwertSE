@@ -1,4 +1,4 @@
-### Olá, pode me chamar de Dan!
+### Oi, eu sou o Dan!
 
 - 🔭 Hoje trabalho como suporte.
 - 🌱 Estudando Python/C#
