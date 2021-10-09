@@ -1,7 +1,7 @@
 ### Oi, eu sou o Dan!
 
 - 🔭 Hoje trabalho como suporte.
-- 🌱 Estudando Python/C#
+- 🌱 Estudando programação.
 - 📫 Contate-me no email: danilo.ub89@gmail.com
 - 
 ##
