@@ -3,7 +3,6 @@
 - 🔭 Hoje trabalho como suporte.
 - 🌱 Estudando programação.
 - 📫 Contate-me no email: danilo.ub89@gmail.com
-- 
 ##
 
 <div>
