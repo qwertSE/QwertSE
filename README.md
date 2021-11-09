@@ -1,8 +1,8 @@
-### Oi, eu sou o Dan!
+### Hi there, I'm Dan
 
 - 🔭 Hoje trabalho como suporte.
-- 🌱 Estudando programação.
-- 📫 Contate-me no email: danilo.ub89@gmail.com
+- 🌱 Student Analysis and Systems Development
+- 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
 ##
 
 <div>
