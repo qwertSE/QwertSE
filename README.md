@@ -6,9 +6,9 @@
 ##
 
 <div>
-  <a href="https://github.com/dandanSE">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=devdan89&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdan89&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/qwertSE">
+  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=qwertSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertSE&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
