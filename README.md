@@ -1,6 +1,6 @@
 ### Hi there, I'm Dan
 
-- 🔭 Looking for new challenges.
+- 🔭 Front-end Developer
 - 🌱 Student Analysis and Systems Development
 - 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
 ##
