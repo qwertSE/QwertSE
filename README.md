@@ -1,7 +1,8 @@
 ### Hi there, I'm Dan
 
-- 🔭 Front-end Developer
-- 🌱 Student Analysis and Systems Development
+- 🔭 Front-end Developer.
+- 🌱 Student Analysis and Systems Development.
+- :brain: Learning: Typescript and React.
 - 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
 ##
 
