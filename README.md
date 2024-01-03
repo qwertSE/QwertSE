@@ -2,7 +2,7 @@
 
 - 🔭 Front-end Developer.
 - 🌱 Student Analysis and Systems Development.
-- :brain: Learning: Typescript and React.
+- :brain: Learning: PHP and Laravel.
 - 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
 ##
 
