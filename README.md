@@ -1,7 +1,8 @@
 ### Hi there, I'm Dan
 
-- 🔭 Front-end Developer.
-- 🌱 Student Analysis and Systems Development.
+- 🔭 Fullstack Developer.
+- 🌱 Graduate in Analysis and Systems Development.
+- 🌱 Graduate degree in Software Engineering.
 - :brain: Learning: PHP and Laravel.
 - 📫 Talk to me: danilo.ub89@gmail.com or WhatsApp: https://bit.ly/2Ysg31Q
 ##
